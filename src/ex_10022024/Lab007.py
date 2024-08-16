@@ -6,6 +6,10 @@ c = 10
 sum = a + b + c
 ##print(sum)
 sum = sum - 1
+print(sum)
 sum = sum + 1
-sum + 1
+print(sum)
+###sum + 1
+print(sum)
+sum = sum + 1
 print(sum)
