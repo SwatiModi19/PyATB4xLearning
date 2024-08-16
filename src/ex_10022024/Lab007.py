@@ -1,15 +1,5 @@
-####Sum
+print (max(1,-100 , 1, 3.56 , "Mixed input"))
 
-a = 10
-b = 10
-c = 10
-sum = a + b + c
-##print(sum)
-sum = sum - 1
-print(sum)
-sum = sum + 1
-print(sum)
-###sum + 1
-print(sum)
-sum = sum + 1
-print(sum)
+
+#### Program to find max when int and str provided -- this will return error
+print (max(1,-100, 1, 3.56 , "Test" , "code"))
