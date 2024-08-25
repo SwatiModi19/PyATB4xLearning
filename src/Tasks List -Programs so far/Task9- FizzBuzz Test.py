@@ -6,4 +6,10 @@
 # For numbers that are multiples of both 3 and 5, print "FizzBuzz."
 
 
-for i
+for i in range(1, 101):
+    if i % 3 == 0 and i % 5 == 0:
+        print(f"{i} is a FizBuzz", end="\n ")
+    elif i % 3 == 0:
+        print(f"{i} is a Fizz", end="-- ")
+    elif i % 5 == 0:
+        print(f"{i} is a Buzz", end="--")

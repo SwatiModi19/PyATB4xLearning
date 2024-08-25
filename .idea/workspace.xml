@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d47ce16f-adae-4925-bf26-5ec31bdbebb8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PyATB4xLearning.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08082024/Lab001.py" afterDir="false" />
+    <list default="true" id="d47ce16f-adae-4925-bf26-5ec31bdbebb8" name="Changes" comment="practised 7th class i.e 22th Aug class and tasks">
+      <change afterPath="$PROJECT_DIR$/src/ex_24082024/Lab061.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24082024/Lab062.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tasks List -Programs so far/Task9- FizzBuzz Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks List -Programs so far/Task9- FizzBuzz Test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,23 +25,25 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "SwatiModi19"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;SwatiModi19&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/SwatiModi19/PyATB4xLearning.git",
-    "accountId": "8f0ea868-4288-4682-8954-7ed74477d6b0"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/SwatiModi19/PyATB4xLearning.git&quot;,
+    &quot;accountId&quot;: &quot;8f0ea868-4288-4682-8954-7ed74477d6b0&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2kgcSc7RZWfUpRcjY9osOO4FiF1" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -52,10 +51,68 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Lab001.executor": "Run",
+    "Python.Lab002.executor": "Run",
+    "Python.Lab003.executor": "Run",
+    "Python.Lab004.executor": "Run",
+    "Python.Lab005.executor": "Run",
+    "Python.Lab007.executor": "Run",
+    "Python.Lab010.executor": "Run",
+    "Python.Lab013.executor": "Run",
+    "Python.Lab014.executor": "Run",
+    "Python.Lab015.executor": "Run",
+    "Python.Lab016.executor": "Run",
+    "Python.Lab017.executor": "Run",
+    "Python.Lab018.executor": "Run",
+    "Python.Lab019.executor": "Run",
+    "Python.Lab020.executor": "Run",
+    "Python.Lab021.executor": "Run",
+    "Python.Lab022cal program.executor": "Run",
+    "Python.Lab023.executor": "Run",
+    "Python.Lab025.executor": "Run",
+    "Python.Lab026.executor": "Run",
+    "Python.Lab028.executor": "Run",
+    "Python.Lab031.executor": "Run",
+    "Python.Lab032.executor": "Run",
+    "Python.Lab033.executor": "Run",
+    "Python.Lab034.executor": "Run",
+    "Python.Lab037.executor": "Run",
+    "Python.Lab038.executor": "Run",
+    "Python.Lab039.executor": "Run",
+    "Python.Lab040.executor": "Run",
+    "Python.Lab041.executor": "Run",
+    "Python.Lab042.executor": "Run",
+    "Python.Lab045.executor": "Run",
+    "Python.Lab046.executor": "Run",
+    "Python.Lab047.executor": "Run",
+    "Python.Lab049.executor": "Run",
+    "Python.Lab050.executor": "Run",
+    "Python.Lab051.executor": "Run",
+    "Python.Lab052.executor": "Run",
+    "Python.Lab053.executor": "Run",
+    "Python.Lab054.executor": "Run",
+    "Python.Lab055.executor": "Run",
+    "Python.Lab056.executor": "Run",
+    "Python.Lab057.executor": "Run",
+    "Python.Lab059.executor": "Run",
+    "Python.Lab060.executor": "Run",
+    "Python.Task1-TablePrinting.executor": "Run",
+    "Python.Task1-calculatr.executor": "Run",
+    "Python.Task2-calculatr.executor": "Run",
+    "Python.Task4-Area of a circle.executor": "Run",
+    "Python.Task5-Logical Operators.executor": "Run",
+    "Python.Task6-Square and Cube of a number.executor": "Run",
+    "Python.Task7-Leap year.executor": "Run",
+    "Python.Task8-Triangle classfication.executor": "Run",
+    "Python.Task9- FizzBuzz Test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\amitm\PycharmProjects\PyATB4xLearning\src\ex_10022024" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Lab001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB4xLearning" />
@@ -101,6 +158,212 @@
       <option name="presentableId" value="Default" />
       <updated>1723708660995</updated>
     </task>
+    <task id="LOCAL-00001" summary="First Code">
+      <option name="closed" value="true" />
+      <created>1723710897842</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723710897842</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2nd class lab2">
+      <option name="closed" value="true" />
+      <created>1723799281231</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1723799281233</updated>
+    </task>
+    <task id="LOCAL-00003" summary="2nd class lab3">
+      <option name="closed" value="true" />
+      <created>1723801732586</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1723801732586</updated>
+    </task>
+    <task id="LOCAL-00004" summary="2nd class">
+      <option name="closed" value="true" />
+      <created>1723806195207</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1723806195207</updated>
+    </task>
+    <task id="LOCAL-00005" summary="2nd class">
+      <option name="closed" value="true" />
+      <created>1723828918363</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1723828918363</updated>
+    </task>
+    <task id="LOCAL-00006" summary="2nd class">
+      <option name="closed" value="true" />
+      <created>1723831167009</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1723831167009</updated>
+    </task>
+    <task id="LOCAL-00007" summary="2nd class">
+      <option name="closed" value="true" />
+      <created>1723832886222</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1723832886222</updated>
+    </task>
+    <task id="LOCAL-00008" summary="2nd class">
+      <option name="closed" value="true" />
+      <created>1723833589335</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1723833589335</updated>
+    </task>
+    <task id="LOCAL-00009" summary="3rd class">
+      <option name="closed" value="true" />
+      <created>1723968399024</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1723968399024</updated>
+    </task>
+    <task id="LOCAL-00010" summary="3rd class +assignments">
+      <option name="closed" value="true" />
+      <created>1724028470856</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1724028470856</updated>
+    </task>
+    <task id="LOCAL-00011" summary="3rd class +assignments">
+      <option name="closed" value="true" />
+      <created>1724261079245</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1724261079245</updated>
+    </task>
+    <task id="LOCAL-00012" summary="4th class +assignments">
+      <option name="closed" value="true" />
+      <created>1724265658797</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1724265658797</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Task1">
+      <option name="closed" value="true" />
+      <created>1724266909692</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1724266909692</updated>
+    </task>
+    <task id="LOCAL-00014" summary="day 4">
+      <option name="closed" value="true" />
+      <created>1724267186625</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1724267186625</updated>
+    </task>
+    <task id="LOCAL-00015" summary=" 4th day task 3,4,5,6">
+      <option name="closed" value="true" />
+      <created>1724345105976</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1724345105976</updated>
+    </task>
+    <task id="LOCAL-00016" summary=" 4th day task 3,4,5,6">
+      <option name="closed" value="true" />
+      <created>1724467563783</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1724467563783</updated>
+    </task>
+    <task id="LOCAL-00017" summary=" 5th day task 7,8">
+      <option name="closed" value="true" />
+      <created>1724467910005</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1724467910005</updated>
+    </task>
+    <task id="LOCAL-00018" summary="updated directory name">
+      <option name="closed" value="true" />
+      <created>1724496943849</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1724496943849</updated>
+    </task>
+    <task id="LOCAL-00019" summary="updated">
+      <option name="closed" value="true" />
+      <created>1724499207455</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1724499207455</updated>
+    </task>
+    <task id="LOCAL-00020" summary="practised 6th class i.e 20th Aug class and tasks">
+      <option name="closed" value="true" />
+      <created>1724511448592</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1724511448592</updated>
+    </task>
+    <task id="LOCAL-00021" summary="practised 7th class i.e 22th Aug class and tasks">
+      <option name="closed" value="true" />
+      <created>1724581436060</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1724581436060</updated>
+    </task>
+    <task id="LOCAL-00022" summary="practised 7th class i.e 22th Aug class and tasks">
+      <option name="closed" value="true" />
+      <created>1724582001356</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1724582001356</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Code" />
+    <MESSAGE value="2nd class lab2" />
+    <MESSAGE value="2nd class lab3" />
+    <MESSAGE value="2nd class" />
+    <MESSAGE value="3rd class" />
+    <MESSAGE value="3rd class +assignments" />
+    <MESSAGE value="4th class +assignments" />
+    <MESSAGE value="Task1" />
+    <MESSAGE value="day 4" />
+    <MESSAGE value=" 4th day task 3,4,5,6" />
+    <MESSAGE value=" 5th day task 7,8" />
+    <MESSAGE value="updated directory name" />
+    <MESSAGE value="updated" />
+    <MESSAGE value="practised 6th class i.e 20th Aug class and tasks" />
+    <MESSAGE value="practised 7th class i.e 22th Aug class and tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="practised 7th class i.e 22th Aug class and tasks" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/Tasks List -Programs so far/Task5-Logical Operators.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
