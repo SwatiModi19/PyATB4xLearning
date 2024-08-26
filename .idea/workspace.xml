@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d47ce16f-adae-4925-bf26-5ec31bdbebb8" name="Changes" comment="practised 8th class i.e 24th Aug class and tasks">
-      <change afterPath="$PROJECT_DIR$/src/ex_24082024/LAb070.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24082024/LAb071.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24082024/Lab064.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24082024/Lab065.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24082024/Lab066.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24082024/Lab067.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24082024/Lab068.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24082024/Lab069.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tasks List -Programs so far/Task10- Factorial n.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks List -Programs so far/Task10- Factorial n.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tasks List -Programs so far/Task11- Fibonaci Series.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks List -Programs so far/Task11- Fibonaci Series.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,6 +102,7 @@
     "Python.Lab069.executor": "Run",
     "Python.Task1-TablePrinting.executor": "Run",
     "Python.Task1-calculatr.executor": "Run",
+    "Python.Task10- Factorial n.executor": "Run",
     "Python.Task2-calculatr.executor": "Run",
     "Python.Task4-Area of a circle.executor": "Run",
     "Python.Task5-Logical Operators.executor": "Run",
@@ -363,7 +356,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724691458131</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="practised 8th class i.e 24th Aug class and tasks">
+      <option name="closed" value="true" />
+      <created>1724695995046</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1724695995046</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
