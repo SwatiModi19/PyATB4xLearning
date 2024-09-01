@@ -31,7 +31,7 @@ multiple_arg("Amit","swati","lakshya")
 
 
 
-def multiple_arg(name1="Test1",name2="TEst2",name3="Test3"):
+def multiple_arg(name1="Test1",name2="Test2",name3="Test3"):
     print("multiple arguments" , name1,name2,name3)
 
 multiple_arg("Amit","swati","lakshya")
