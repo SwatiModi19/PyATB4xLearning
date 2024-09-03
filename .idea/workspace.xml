@@ -4,9 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d47ce16f-adae-4925-bf26-5ec31bdbebb8" name="Changes" comment="practised 8th class i.e 24th Aug class and tasks">
+    <list default="true" id="d47ce16f-adae-4925-bf26-5ec31bdbebb8" name="Changes" comment="practised 8th class i.e 24th Aug class and all the tasks are completed">
+      <change afterPath="$PROJECT_DIR$/src/Tasks List -Programs so far/Class&amp;Objects-P1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab075.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab_073.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab_074.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_31082024/Lab_106.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_31082024/Lab_107.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_31082024/Lab_108.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_31082024/Lab_109.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tasks List -Programs so far/Task11- Fibonaci Series.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks List -Programs so far/Task11- Fibonaci Series.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +23,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -48,7 +56,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Python.Class&Objects-P1.executor": "Run",
     "Python.LAb070.executor": "Run",
+    "Python.LAb071.executor": "Run",
     "Python.Lab001.executor": "Run",
     "Python.Lab002.executor": "Run",
     "Python.Lab003.executor": "Run",
@@ -100,9 +111,14 @@
     "Python.Lab066.executor": "Run",
     "Python.Lab067.executor": "Run",
     "Python.Lab069.executor": "Run",
+    "Python.Lab072.executor": "Run",
+    "Python.Lab_073.executor": "Run",
+    "Python.Lab_108.executor": "Run",
+    "Python.Lab_109.executor": "Run",
     "Python.Task1-TablePrinting.executor": "Run",
     "Python.Task1-calculatr.executor": "Run",
     "Python.Task10- Factorial n.executor": "Run",
+    "Python.Task11- Fibonaci Series.executor": "Run",
     "Python.Task2-calculatr.executor": "Run",
     "Python.Task4-Area of a circle.executor": "Run",
     "Python.Task5-Logical Operators.executor": "Run",
@@ -364,7 +380,31 @@
       <option name="project" value="LOCAL" />
       <updated>1724695995046</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="practised 8th class i.e 24th Aug class and all the tasks are completed">
+      <option name="closed" value="true" />
+      <created>1724696960963</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1724696960963</updated>
+    </task>
+    <task id="LOCAL-00027" summary="practised 8th class i.e 24th Aug class and all the tasks are completed">
+      <option name="closed" value="true" />
+      <created>1725181545496</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1725181545496</updated>
+    </task>
+    <task id="LOCAL-00028" summary="practised 8th class i.e 24th Aug class and all the tasks are completed">
+      <option name="closed" value="true" />
+      <created>1725194338936</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1725194338936</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -384,7 +424,8 @@
     <MESSAGE value="practised 6th class i.e 20th Aug class and tasks" />
     <MESSAGE value="practised 7th class i.e 22th Aug class and tasks" />
     <MESSAGE value="practised 8th class i.e 24th Aug class and tasks" />
-    <option name="LAST_COMMIT_MESSAGE" value="practised 8th class i.e 24th Aug class and tasks" />
+    <MESSAGE value="practised 8th class i.e 24th Aug class and all the tasks are completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="practised 8th class i.e 24th Aug class and all the tasks are completed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
