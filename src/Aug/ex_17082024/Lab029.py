@@ -1,5 +1,4 @@
 ###operators
-from src.ex_17082024.Lab031 import is_male
 
 age = 90
 name = "Test"

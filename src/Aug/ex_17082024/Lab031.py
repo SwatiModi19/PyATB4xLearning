@@ -2,7 +2,6 @@
 #
 # Not operator
 #
-from src.ex_13082024.Lab023 import table
 
 is_male =True
 print(is_male)
